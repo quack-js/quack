@@ -1,6 +1,7 @@
 {
-  "name": "redux-async-actions",
-  "version": "0.1.0",
+  "name": "quack",
+  "description": "First React based web framework :O",
+  "version": "0.0.0-alpha.1",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
@@ -9,6 +10,7 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "connected-react-router": "^6.0.0-beta.1",
     "normalizr": "^3.3.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
